@@ -2,4 +2,4 @@
 Committing to 100 Days of learning &amp; developing my skills for Machine Learning.
 
 ## My Learnings
-Day 0 - Numpy
+Day 0 - Numpy [🔗](./Day%200/)
