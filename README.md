@@ -7,3 +7,4 @@ Day 01 - Pandas [🔗](./Day%2001)<br>
 Day 02 - Pandas & Data Analysis Project [🔗](./Day%2002)<br>
 Day 03 - Pandas [🔗](./Day%2003/)<br>
 Day 04 - Pandas [🔗](./Day%2004/)<br>
+Day 05 - Pandas [🔗](./Day%2005/)<br>

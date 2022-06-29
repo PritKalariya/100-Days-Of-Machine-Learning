@@ -2,6 +2,8 @@
 
 ## Task
 - Learn Pandas
+    - Working with Dates and Time Series Data
+    - Reading/Writing Data to Different Sources - Excel, JSON, SQL, Etc
 
 
 ## Resources
