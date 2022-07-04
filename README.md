@@ -9,3 +9,4 @@ Day 03 - Pandas [🔗](./Day%2003/)<br>
 Day 04 - Pandas [🔗](./Day%2004/)<br>
 Day 05 - Pandas [🔗](./Day%2005/)<br>
 Day 06 - Data Analysis Project 2 [🔗](./Day%2006/)<br>
+Day 07 - Matplotlib [🔗](./Day%2007/)<br>
