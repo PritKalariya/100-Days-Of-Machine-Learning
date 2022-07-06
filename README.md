@@ -11,3 +11,4 @@ Day 05 - Pandas [🔗](./Day%2005/)<br>
 Day 06 - Data Analysis Project 2 [🔗](./Day%2006/)<br>
 Day 07 - Matplotlib [🔗](./Day%2007/)<br>
 Day 08 - Matplotlib [🔗](./Day%2008/)<br>
+Day 09 - Matplotlib [🔗](./Day%2009/)<br>
