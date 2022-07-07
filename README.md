@@ -12,3 +12,4 @@ Day 06 - Data Analysis Project 2 [🔗](./Day%2006/)<br>
 Day 07 - Matplotlib [🔗](./Day%2007/)<br>
 Day 08 - Matplotlib [🔗](./Day%2008/)<br>
 Day 09 - Matplotlib [🔗](./Day%2009/)<br>
+Day 10 - Matplotlib [🔗](./Day%2010/)<br>
