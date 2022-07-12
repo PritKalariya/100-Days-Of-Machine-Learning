@@ -14,3 +14,4 @@ Day 08 - Matplotlib [🔗](./Day%2008/)<br>
 Day 09 - Matplotlib [🔗](./Day%2009/)<br>
 Day 10 - Matplotlib [🔗](./Day%2010/)<br>
 Day 11 - Matplotlib [🔗](./Day%2011/)<br>
+Day 12 - Matplotlib [🔗](./Day%2012/)<br>
